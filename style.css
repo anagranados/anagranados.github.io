@@ -83,7 +83,7 @@ header a:hover{
 .button{
 	border-style: solid;
 	padding: .5em;
-	color: red; /*#ac3b61*/
+	color: yellow; /*#ac3b61*/
 	font-size: 1em;
 	border-radius: 5px;
 	cursor: pointer;
