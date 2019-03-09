@@ -78,6 +78,11 @@ header a:hover{
 	font-size: 2em;
 }
 
+.intro p{
+	padding-bottom: 3em;
+	font-size: 1.5em;
+}
+
 /*BUTTONS
 ==================================*/
 .button{
